@@ -1,4 +1,4 @@
-/* File : example.c */
+/* File : mgrpc.c */
 
 include "mgrpc.h"
  
